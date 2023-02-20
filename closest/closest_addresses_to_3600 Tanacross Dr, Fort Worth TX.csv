@@ -1,5 +1,6 @@
-street_numbers,street_name,postcode,longitude,latitude,full_address
-3860.0,TANACROSS                 DR,          ,-97.2919955,32.8365578,"3860.0 TANACROSS                 DR, Fort Worth, TX           "
-3751.0,TANACROSS                 DR,          ,-97.2923478,32.8374165,"3751.0 TANACROSS                 DR, Fort Worth, TX           "
-3740.0,TANACROSS                 DR,          ,-97.2927608,32.8364399,"3740.0 TANACROSS                 DR, Fort Worth, TX           "
-3861.0,TANACROSS                 DR,          ,-97.2918266,32.8374234,"3861.0 TANACROSS                 DR, Fort Worth, TX           "
+full_address,2018 Appraisal,2019 Appraisal,2020 Appraisal,2021 Appraisal, 2022 Appraisal 
+3500 NE Loop 820,10796734,12502355,12853498,12495773,13200000
+3501 NE Loop 820,3526387,4619727,3100000,4000000,4100000
+3541 Tanacross Dr,4400000,5000000,4400000,3200000,4276000
+3740 Tanacross Dr,1840000,2000000,2172000,1900000,2313000
+ 3701 Tanacross Dr ,7860000,11000000,9150000,5950000,7000000
